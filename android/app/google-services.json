@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651386888362",
+    "project_id": "trio2-6c87e",
+    "storage_bucket": "trio2-6c87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651386888362:android:8667f196da8c1afe02b0d3",
+        "android_client_info": {
+          "package_name": "com.sahl.trio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdABtUZs14cbiyDM1z3a6f0qFAJ_X4-IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
